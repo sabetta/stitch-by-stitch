@@ -1,0 +1,17 @@
+acrylic params - seed
+
+only lines starting with * mean anything
+
+*init_file seed
+*output_prefix core285
+*stitch_length 15.67 mm
+*bending_modulus 0.045
+*regularization 0.002
+*yarn_radius 1.20
+*core_radius 0.285
+*interactions_per_segment 10
+*contact_rigidity 0.0006
+*contact_exponent 2.4
+*sweep_direction x
+*init_dimension 4.4
+*final_dimension 5.5

@@ -1,0 +1,17 @@
+acrylic params - rib
+
+only lines starting with * mean anything
+
+*init_file rib
+*output_prefix core410
+*stitch_length 16.10 mm
+*bending_modulus 0.045
+*regularization 0.002
+*yarn_radius 1.18
+*core_radius 0.41
+*interactions_per_segment 10
+*contact_rigidity 0.0006
+*contact_exponent 2.4
+*sweep_direction x
+*init_dimension 2.3
+*final_dimension 7.9

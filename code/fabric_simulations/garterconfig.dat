@@ -1,0 +1,17 @@
+acrylic params - garter
+
+only lines starting with * mean anything
+
+*init_file garter
+*output_prefix core255
+*stitch_length 10.55 mm
+*bending_modulus 0.045
+*regularization 0.002
+*yarn_radius 0.54
+*core_radius 0.255
+*interactions_per_segment 10
+*contact_rigidity 0.0006
+*contact_exponent 2.4
+*sweep_direction x
+*init_dimension 3.0
+*final_dimension 4.7
